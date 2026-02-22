@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Kartik Rajput , Currently Learning MERN stack and i also dabble in Web3
+I'm Kartik Rajput , Learning to Build Scalable infra & Backend and deep diving into low level systems.
 
 
 ## 🌐 Socials:
